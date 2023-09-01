@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.recipe {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.recipe img {
+  max-width: 25%;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+section {
+  padding: 20px;
+}
